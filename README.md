@@ -2,7 +2,7 @@
 
 ## Task A
 ### Colab Notebook
-[[https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing]](https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing)
+https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing
 
 ### Video Walkthrough
 [Watch Demo Video](YOUR_VIDEO_LINK_HERE)
@@ -19,7 +19,7 @@
 
 ## Task D
 ### Colab Notebook
-[Open in Google Colab](YOUR_COLAB_LINK_HERE)
+https://colab.research.google.com/drive/1qHi26KM_VOL7M_Sm7cMoE4Ns6Z8dP-3l?usp=sharing
 
 ### Video Walkthrough
 [Watch Demo Video](YOUR_VIDEO_LINK_HERE)
