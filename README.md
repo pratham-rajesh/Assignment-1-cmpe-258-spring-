@@ -2,7 +2,7 @@
 
 ## Task A
 ### Colab Notebook
-[Open in Google Colab]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing))
+[Open in Google Colab]([https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing])
 
 ### Video Walkthrough
 [Watch Demo Video](YOUR_VIDEO_LINK_HERE)
