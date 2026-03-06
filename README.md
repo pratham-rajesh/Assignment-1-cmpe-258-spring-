@@ -22,4 +22,4 @@ https://youtu.be/80r-aix2aHk
 https://colab.research.google.com/drive/1qHi26KM_VOL7M_Sm7cMoE4Ns6Z8dP-3l?usp=sharing
 
 ### Video Walkthrough
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+https://youtu.be/9zEJCLkm8LA
