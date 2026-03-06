@@ -5,12 +5,12 @@
 https://colab.research.google.com/drive/1V8u3cs8f2Xfaae8_4EUStcdXkZXzWDzA?usp=sharing
 
 ### Video Walkthrough
-[Watch Demo Video](https://youtu.be/xfIXNi3Cn3I)
+https://youtu.be/xfIXNi3Cn3I
 
 ## Task B
 
 ### Video Walkthrough
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+https://youtu.be/J6KpijVLQfk
 
 ## Task C
 
