@@ -15,7 +15,7 @@ https://youtu.be/J6KpijVLQfk
 ## Task C
 
 ### Video Walkthrough
-[Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+https://youtu.be/80r-aix2aHk
 
 ## Task D
 ### Colab Notebook
